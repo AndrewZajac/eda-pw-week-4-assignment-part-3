@@ -34,6 +34,17 @@ function listItems(){
     return true;
 }
 
+function removeItem(item){
+    basket.indexOf(item)
+    basket.splice(basket.indexOf(item), 1);
+    if(){
+    return item;
+    } else if()
+}
+console.log(removeItem('eggs'));
+console.log(basket);
+
+
 function empty(){
     basket.splice(0, basket.length);
 }
@@ -48,6 +59,7 @@ function isFull(){
         return true;
     }
 }
+
 
 // DO NOT MODIFY
 // Used for automated testing
