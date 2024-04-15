@@ -34,15 +34,15 @@ function listItems(){
     return true;
 }
 
-function removeItem(item){
-    basket.indexOf(item)
-    basket.splice(basket.indexOf(item), 1);
-    if(){
-    return item;
-    } else if()
-}
-console.log(removeItem('eggs'));
-console.log(basket);
+// function removeItem(item){
+//     basket.indexOf(item);
+//     basket.splice(basket.indexOf(item), 1);
+//     if(let i = 0; i === basket[i]; i ++){
+//     return item;
+//     } else 
+// }
+// console.log(removeItem('eggs'));
+// console.log(basket);
 
 
 function empty(){
